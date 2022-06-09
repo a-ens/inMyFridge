@@ -1,5 +1,5 @@
 # inMyFridge
-https://kimester.github.io/inMyFridge/
+[https://a-ens.github.io/inMyFridge/](https://a-ens.github.io/inMyFridge/)
 
 # inMyFridge
 Our motivation in building a webapp for users to have better use of the ingredients in their fridge, reduce waste, and  to be able to try out new recipes while with the use of what they already have at home.
